@@ -93,7 +93,7 @@ def create_fixed_dashboard():
     source_counts = df['Ticket_Source'].value_counts().head(10)
     
     # Wir brechen den Text etwas früher um (width=25), damit er nicht so breit wird
-    formatted_labels = wrap_labels(source_counts.index, width=25)
+    formatted_labels = wrap_labels(source_counts.index, width=40)
 
     fig.add_trace(
         go.Bar(
@@ -157,7 +157,7 @@ def create_fixed_dashboard():
     )
 
     # WICHTIG: Schriftgröße der Achsen verkleinern (tickfont size)
-    # Damit wirken die langen Texte nicht so wuchtig
+    # Damit wirken die langen Texte nicht so wuchtig_1
     fig.update_yaxes(automargin=True, tickfont=dict(size=10))
     fig.update_xaxes(automargin=True, tickfont=dict(size=10))
 
