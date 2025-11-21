@@ -1,0 +1,47 @@
+{
+    "kickoff": "2023-10-01T15:00:00Z",
+    "eventName": "Test Event",
+    "answers": {
+        "In welchem Hospitality-Bereich waren Sie zu Gast?": {
+            "options": [
+                "Mercedes-Benz Business Center - Business Seat",
+                "Mercedes-Benz Business Center - Loge",
+                "Porsche Tunnel Club",
+                "MECHATRONIK Württemberg Lounge - Business Seat",
+                "MECHATRONIK Württemberg Lounge - Loge",
+                "CLUB 1893"
+            ],
+            "selected": "Mercedes-Benz Business Center - Loge"
+        },
+        "Wenn Sie mögen, können Sie hier Ihren Bereich genauer spezifizieren (Lounge / Flügel / Rondell / Loge):": "Flügel",
+        "Wie sind Sie an Ihr VIP-Ticket gekommen?": {
+            "options": [
+                "Ich bin selbst VIP-Dauerkarteninhaber bzw. Unternehmens-Verantwortlicher",
+                "Ich bin Mitarbeiter des Unternehmens",
+                "Ich bin ein direkter Angehöriger (Familie/Freunde/Bekannte)",
+                "Ich wurde als Geschäftspartner oder Kunde eingeladen",
+                "Ich habe bei einem Gewinnspiel, Verlosung o.ä. teilgenommen",
+                "Ich nutze Tageskarten (ohne Dauerkarten-Arrangement) als Ticketkäufer",
+                "Ich nutze Tageskarten (ohne Dauerkarten-Arrangement) und wurde eingeladen",
+                ""
+            ],
+            "selected": "Ich bin selbst VIP-Dauerkarteninhaber bzw. Unternehmens-Verantwortlicher"
+        },
+        "Wie bewerten Sie...": {
+            "... die An- und Abreise bzw. Parkmöglichkeiten?": 4.0,
+            "... den Einlassprozess (Abwicklung / Dauer)?": 4.0,
+            "... den Hostessen-Service?": 4.0,
+            "... das Catering (Qualität & Auswahl)?": 3.0,
+            "... das Servicepersonal des Caterers?": 4.0,
+            "... die Atmosphäre & das Entertainment?": 4.0,
+            "... die Aktionsbereiche (Partner-Promotions / Getränke-Bars / Candy-Bar / Piano Bar)?": 4.0,
+            "... das Ambiente des Lounge- und Tischbereichs?": 5.0,
+            "... die Möglichkeit des Knüpfens bzw. Pflegens geschäftlicher Kontakte?": 4.0,
+            "... insgesamt Ihr Spieltagserlebnis?": 3.0
+        },
+        "Würden Sie den VIP-Hospitality-Bereich des VfB Stuttgart weiterempfehlen?": "Nein",
+        "Was hat Ihnen besonders gut gefallen oder wo sehen Sie Verbesserungsbedarf?": "Simulierter Kommentar 15",
+        "Möchten Sie zukünftig Informationen zu Hospitality-Angeboten des VfB Stuttgart erhalten?": "Ja, ich bin interessiert",
+        "Bitte tragen Sie für eine Kontaktaufnahme Ihre Daten ein [Name / Ggf. Unternehmen / E-Mail / Telefon]": "User 15 / 555-0115"
+    }
+}
